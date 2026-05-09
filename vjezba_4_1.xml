@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ime>Marko</ime>
-<cijena>199.99</cijena>
-<godine>25</godine>
-<aktivan>true</aktivan>
-<datumRodjenja>2000-05-15</datumRodjenja>
-<vrijemePocetka>08:30:00</vrijemePocetka>
+<osoba xmlns :xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi : noNamespaceSchemaLocation="osoba.xsd">
+  <ime>Marko</ime>
+  <cijena>199.99</cijena>
+  <godine>25</godine>
+  <aktivan>true</aktivan>
+  <datumRodjenja>2000-05-15</datumRodjenja>
+  <vrijemePocetka>08:30:00</vrijemePocetka>
+</osoba>

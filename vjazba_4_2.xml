@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<narudzba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="narudzba.xsd">
+
+    <kupac>Iris</kupac>
+    <datumNarudzbe>2026-04-25</datumNarudzbe>
+    <kolicina>2</kolicina>
+
+    <statusNarudzbe>u_obradi</statusNarudzbe>
+
+    <ukupanIznos valuta="EUR">99.99</ukupanIznos>
+
+</narudzba>
